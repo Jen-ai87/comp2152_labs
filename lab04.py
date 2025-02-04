@@ -1,4 +1,4 @@
-# Jen Henry
+# Jen Henry - COMP2152
 # Import the random library to use for the dice later
 import random
 
