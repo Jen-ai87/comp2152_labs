@@ -1,3 +1,4 @@
+# Jen Henry
 # Import the random library to use for the dice later
 import random
 
@@ -158,3 +159,5 @@ if belt:
     print(f"Updated health points: {health_points}")
 else:
     print("No items left to use!")
+
+#Lab 4 Completed
