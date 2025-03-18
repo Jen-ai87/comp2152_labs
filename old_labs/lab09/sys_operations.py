@@ -27,7 +27,7 @@ print(os.getpid())
 
 
 # 3b.a. Open (or create) a file named fdpractice.txt
-fd = os.open("fdpractise.txt", os.O_RDWR | os.O_CREAT)
+fd = os.open("../../fdpractise.txt", os.O_RDWR | os.O_CREAT)
 
 # 3b.b. Print the current process id
 print(f"Current process ID: {os.getpid()}")
